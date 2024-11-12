@@ -2,7 +2,7 @@
 
 ## Table of contents
 - [Overview](#overview)
-- [Mockup Pages](#mockup_pages)
+- [Mockup Pages](#mockup-pages)
 
 ### [Team Contract](https://docs.google.com/document/d/1g-LGbroK5dOsta1CuUrlV2K-iqaDX6juGQYbdOwcRJo/edit?tab=t.0)
 Team Members: Ethan Christman, John Holt, Nalani Klopfenstein, Jett Perry
@@ -15,9 +15,42 @@ Sail Kokokahi is a social/recreation club established in 2022 as a way to establ
 - Volunteering at club events (1hr per event)
 - Helping organize social activities (1hr per event)
 
-If members do not meet the quota of 6 hours they will be billed at 20 dollars per unfulfilled hour. The problem with enforcing this policy resides in the members volunteer hours being tracked manually. Some members are unsure if they have met the quota for the year while others are not fulfilling the commitment at all.
+If members do not meet the quota of 6 hours they will be billed at 20 dollars per unfulfilled hour. The problem with enforcing this policy resides in the members volunteer hours being tracked manually. Some members are unsure if they have met the quota for the year, while others are not fulfilling the commitment at all.
 
-To solve this problem, our team will work torwards making a web application to mangage and monitor the volunteer hours contributed by each club member. The web application will enable members to monitor their own volunteer hours and allow administrators to track and automate the billing process for members with unfulfilled volunteer hours.
+To solve this problem, our team will work torwards making a web application to mangage and monitor the volunteer hours contributed by each club member. The web application will enable members to monitor their own volunteer hours, and allow administrators to track and automate the billing process for members with unfulfilled volunteer hours.
 
 ## Mockup Pages
 <hr>
+
+- **Landing Page**
+The intial landing page will simply direct club members to sign in to their accounts and does not provide any information until an account is created.
+
+<img src="./img/landing-page.png" width="75%">
+
+- **User Landing Page**
+Once users sign in they will be redirected to the user landing page which will present them with 3 different actions: event sign up, event check in, and a dashboard where they can view their hours
+
+<img src="./img/user-landing-page.png" width="75%">
+
+- **Member Dashboard**
+On the member dashboard screen, users will be able to view their pending hours and their total hours contributed for the year. The "pending" hours are hours that have yet to be approved by a member with administrative rights. The page will also have an event history where users can see events that they have signed up for throughout the year.
+
+<img src="./img/member-dashboard.png" width="75%">
+
+- **Event Sign-Up**
+On the event sign-up screen, users can view upcoming events that can contribute to their annual quota of 6 volunteer hours. Events will have an information drop down menu that displays the time, potential hours to be gained, and members attending.  The sign up button will move the event to the users "event-check-in" page that users can take advantage of on the day of the event.
+
+<img src="./img/event-sign-up.png" width="75%">
+<br>
+
+<img src="./img/event-sign-up-2.png" width="75%">
+
+- **Event Check-In**
+The event check-in screen will have a simillar format to the event sign-up screen. However, unlike the sign-up screen, only events that users have "signed up" for will show up here. The event will have a new check-in dropdown that users will be able to use to check-in to events they attend. Upon checking in the user will now have unapproved hours on the dashboard screen that can then be approved by administrative personnel.
+
+<img src="./img/event-check-in.png" width="75%">
+
+- **Member Profile**
+Users will also have their own personal profiles where they will be able to enable or disable email notifications, edit basic profile information, and their billing information for payments to the Kokokahi Sail team.
+
+<img src="./img/member-profile.png" width="75%">
