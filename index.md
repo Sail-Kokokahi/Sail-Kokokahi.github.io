@@ -25,38 +25,52 @@ To solve this problem, our team will work torwards making a web application to m
 - **Landing Page**
 <br>
 The intial landing page will simply direct club members to sign in to their accounts and does not provide any information until an account is created.
-
-<img src="./img/landing-page.png" width="75%">
+<p align="center">
+  <img src="./img/landing-page.png" width="85%">
+</p>
 
 - **Member Landing Page**
 <br>
 Once users sign in they will be redirected to the user landing page which will present them with 3 different actions: event sign up, event check in, and a dashboard where they can view their hours
 
-<img src="./img/member-landing-page.png" width="75%">
+<p align="center">
+  <img src="./img/member-landing-page.png" width="85%">
+</p>
 
 - **Member Dashboard**
 <br>
 On the member dashboard screen, users will be able to view their pending hours and their total hours contributed for the year. The "pending" hours are hours that have yet to be approved by a member with administrative rights. The page will also have an event history where users can see events that they have signed up for throughout the year.
 
-<img src="./img/member-dashboard.png" width="75%">
+<p align="center">
+  <img src="./img/member-dashboard.png" width="85%">
+</p>
 
 - **Event Sign-Up**
 <br>
 On the event sign-up screen, users can view upcoming events that can contribute to their annual quota of 6 volunteer hours. Events will have an information drop down menu that displays the time, potential hours to be gained, and members attending.  The sign up button will move the event to the users "event-check-in" page that users can take advantage of on the day of the event.
 
-<img src="./img/event-sign-up.png" width="75%">
+<p align="center">
+  <img src="./img/event-sign-up.png" width="85%">
+</p>
+
 <br>
 
-<img src="./img/event-sign-up-2.png" width="75%">
+<p align="center">
+  <img src="./img/event-sign-up-2.png" width="85%">
+</p>
 
 - **Event Check-In**
 <br>
 The event check-in screen will have a simillar format to the event sign-up screen. However, unlike the sign-up screen, only events that users have "signed up" for will show up here. The event will have a new check-in dropdown that users will be able to use to check-in to events they attend. Upon checking in the user will now have unapproved hours on the dashboard screen that can then be approved by administrative personnel.
 
-<img src="./img/event-check-in.png" width="75%">
+<p align="center">
+  <img src="./img/event-check-in.png" width="85%">
+</p>
 
 - **Member Profile**
 <br>
 Users will also have their own personal profiles where they will be able to enable or disable email notifications, edit basic profile information, and their billing information for payments to the Kokokahi Sail team.
 
-<img src="./img/member-profile.png" width="75%">
+<p align="center">
+  <img src="./img/member-profile.png" width="85%">
+</p>
