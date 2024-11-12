@@ -27,10 +27,10 @@ The intial landing page will simply direct club members to sign in to their acco
 
 <img src="./img/landing-page.png" width="75%">
 
-- **User Landing Page**
+- **Member Landing Page**
 Once users sign in they will be redirected to the user landing page which will present them with 3 different actions: event sign up, event check in, and a dashboard where they can view their hours
 
-<img src="./img/user-landing-page.png" width="75%">
+<img src="./img/member-landing-page.png" width="75%">
 
 - **Member Dashboard**
 On the member dashboard screen, users will be able to view their pending hours and their total hours contributed for the year. The "pending" hours are hours that have yet to be approved by a member with administrative rights. The page will also have an event history where users can see events that they have signed up for throughout the year.
