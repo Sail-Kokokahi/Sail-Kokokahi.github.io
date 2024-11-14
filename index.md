@@ -74,3 +74,35 @@ Users will also have their own personal profiles where they will be able to enab
 <p align="center">
   <img src="./img/member-profile.png" width="85%">
 </p>
+
+- **Admin Landing Page**
+<br>
+Once an administrative user signs in they will be redirected to the user landing page which will present them with some admin exclusive actions such as: admin dashboard, member roles, and an hours approval page.
+
+<p align="center">
+  <img src="./img/admin-landing.png" width="85%">
+</p>
+
+- **Admin Dashboard**
+<br>
+On the admin dashboard, admin users will be able to view a table that contains club member information, and the hours each member has logged for the year. This file will be an exportable excel sheet as well.
+
+<p align="center">
+  <img src="./img/admin-dashboard.png" width="85%">
+</p>
+
+- **Member Roles**
+<br>
+Admin users will also have access to the member roles page which they can use to adjust permissions of other members if they also require administrative rights.
+
+<p align="center">
+  <img src="./img/admin-roles.png" width="85%">
+</p>
+
+- **Hours Approval**
+<br>
+The hours approval page is where members who have checked-in for a particular event can be viewed by admin users. Admin users will be able to either approve or reject their hours depending on if they actually attended the event or not.
+
+<p align="center">
+  <img src="./img/hours-approval.png" width="85%">
+</p>
