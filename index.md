@@ -118,15 +118,33 @@ The hours approval page is where members who have checked-in for a particular ev
 
 ### [M1 Progress Page](https://github.com/orgs/Sail-Kokokahi/projects/2)
 - **Landing page**
+<p align="center">
+  <img src="./img/final-landing-page.png" width="85%">
+</p>
 
 - **Member Dashboard**
+<p align="center">
+  <img src="./img/final-member-dashboard.png" width="85%">
+</p>
 
 - **Admin Dashboard**
+<p align="center">
+  <img src="./img/final-admin-dashboard.png" width="85%">
+</p>
 
 - **Event Signup**
+<p align="center">
+  <img src="./img/final-event-signup.png" width="85%">
+</p>
 
 - **Profile Management**
+<p align="center">
+  <img src="./img/final-profile-management.png" width="85%">
+</p>
 
 - **Settings**
+<p align="center">
+  <img src="./img/final-settings.png" width="85%">
+</p>
 
 
