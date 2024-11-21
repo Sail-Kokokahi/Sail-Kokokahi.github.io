@@ -1,11 +1,17 @@
 # Sail Kokokahi
 
 ## Table of contents
+- [Deployment](#deployment)
 - [Overview](#overview)
 - [Mockup Pages](#mockup-pages)
+- [Milestone 1](#milestone-1)
 
 ### [Team Contract](https://docs.google.com/document/d/1g-LGbroK5dOsta1CuUrlV2K-iqaDX6juGQYbdOwcRJo/edit?tab=t.0)
 Team Members: Ethan Christman, John Holt, Nalani Klopfenstein, Jett Perry
+
+## Deployment
+<hr>
+See our project deployed at Vercel [here](https://sail-kokokahi-a87wzvuq2-jetts-projects-979a3973.vercel.app/)
 
 ## Overview
 <hr>
@@ -106,3 +112,7 @@ The hours approval page is where members who have checked-in for a particular ev
 <p align="center">
   <img src="./img/hours-approval.png" width="85%">
 </p>
+
+## Milestone 1
+
+
