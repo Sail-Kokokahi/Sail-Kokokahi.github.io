@@ -114,5 +114,19 @@ The hours approval page is where members who have checked-in for a particular ev
 </p>
 
 ## Milestone 1
+<hr>
+
+### [M1 Progress Page](https://github.com/orgs/Sail-Kokokahi/projects/2)
+- **Landing page**
+
+- **Member Dashboard**
+
+- **Admin Dashboard**
+
+- **Event Signup**
+
+- **Profile Management**
+
+- **Settings**
 
 
