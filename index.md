@@ -12,7 +12,7 @@ Team Members: Ethan Christman, John Holt, Nalani Klopfenstein, Jett Perry
 
 ## Deployment
 <hr>
-See our project deployed at Vercel [here](https://sail-kokokahi-a87wzvuq2-jetts-projects-979a3973.vercel.app/)
+See our project deployed at Vercel [here](https://sail-kokokahi.vercel.app/)
 
 ## Overview
 <hr>
