@@ -5,6 +5,7 @@
 - [Overview](#overview)
 - [Mockup Pages](#mockup-pages)
 - [Milestone 1](#milestone-1)
+- [Milestone 2](#milestone-2)
 
 ### [Team Contract](https://docs.google.com/document/d/1g-LGbroK5dOsta1CuUrlV2K-iqaDX6juGQYbdOwcRJo/edit?tab=t.0)
 Team Members: Ethan Christman, John Holt, Nalani Klopfenstein, Jett Perry
@@ -147,4 +148,7 @@ The hours approval page is where members who have checked-in for a particular ev
   <img src="./img/final-settings.png" width="85%">
 </p>
 
+## Milestone 2
+<hr>
 
+### [M2 Progress Page](https://github.com/orgs/Sail-Kokokahi/projects/4/views/1)
