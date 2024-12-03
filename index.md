@@ -157,49 +157,49 @@ The hours approval page is where members who have checked-in for a particular ev
 <br>
 The member landing page has buttons that redirect the user to the pages members can access.
 <p align="center">
-  <img src="./img/m2-member-landing" width="85%">
+  <img src="./img/m2-member-landing.png" width="85%">
 </p>
 
 - **Member Dashboard**
 <br>
 The member dashboard displays the user with their current pending hours, approved hours and all the upcoming events.
 <p align="center">
-  <img src="./img/m2-member-dashboard" width="85%">
+  <img src="./img/m2-member-dashboard.png" width="85%">
 </p>
 
 - **Event Sign-up**
 <br>
 The member event sign-up page has all of the upcoming events that admins can create, all of these events are also viewable on the member dashboard under the "upcoming events" section.
 <p align="center">
-  <img src="./img/m2-event-signup" width="85%">
+  <img src="./img/m2-event-signup.png" width="85%">
 </p>
 
 - **Admin Landing page**
 <br>
 The admin landing page has buttons that redirect the user to the pages admins can access.
 <p align="center">
-  <img src="./img/m2-admin-landing" width="85%">
+  <img src="./img/m2-admin-landing.png" width="85%">
 </p>
 
 - **Admin Dashboard**
 <br>
 The admin dashboard shows a spreadsheet of all the users in the database along with their pending hours and approved hours. Admins can choose to approve or deny pending hours of the users who have checked into events.
 <p align="center">
-  <img src="./img/m2-admin-dashboard" width="85%">
+  <img src="./img/m2-admin-dashboard.png" width="85%">
 </p>
 
 - **Add Event**
 <br>
 The add event page is only accessible to admins and creates a new event in the database for members to be able to see and check into.
 <p align="center">
-  <img src="./img/m2-add-event" width="85%">
+  <img src="./img/m2-add-event.png" width="85%">
 </p>
 
 - **Settings**
 <br>
 The settings page is accessible to all members or admins, it allows the user to adjust their information if needed or enable notifications.
 <p align="center">
-  <img src="./img/m2-settings" width="85%">
+  <img src="./img/m2-settings.png" width="85%">
 </p>
 
 ## Milestone 3
