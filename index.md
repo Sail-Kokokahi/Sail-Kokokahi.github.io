@@ -46,7 +46,7 @@ After signing in you can choose to either be redirected to the "member" or "admi
   <img src="./img/m2-redirect-page.png" width="85%">
 </p>
 
-- **Member User Guide**
+### Member User Guide
 As a member you can access the member landing page, this page displays buttons that link to the pages that are available to members.
 <p align="center">
   <img src="./img/m2-member-landing.png" width="85%">
@@ -62,7 +62,7 @@ On the event sign-up page users can see upcoming events and details about the ev
   <img src="./img/m2-event-signup.png" width="85%">
 </p>
 
-- **Admin User Guide**
+### Admin User Guide
 As an admin you can access the member landing page, this page displays buttons that link to the pages that are available to admins.
 <p align="center">
   <img src="./img/m2-admin-landing.png" width="85%">
