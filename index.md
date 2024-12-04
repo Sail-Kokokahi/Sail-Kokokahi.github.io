@@ -36,10 +36,61 @@ To solve this problem, our team will work torwards making a web application to m
 
 ## User Guide
 <hr>
+Upon visiting our website you will land on the initial landing page, from here you are directed to sign in before accessing the "member" or "admin" pages.
 <p align="center">
-  <img src="./img/m2-landing-page.png" width="85%">
+  <img src="./img/m2-initial-page.png" width="85%">
 </p>
 
+<br>
+
+After signing in you can choose to either be redirected to the "member" or "admin" landing page, admin users cannot access the member landing page and vice versa.
+<p align="center">
+  <img src="./img/m2-redirect-page.png" width="85%">
+</p>
+
+<br>
+
+- **Member User Guide**
+As a member you can access the member landing page, this page displays buttons that link to the pages that are available to members.
+<p align="center">
+  <img src="./img/m2-member-landing.png" width="85%">
+</p>
+
+<br>
+
+On the member dashboard you can see your own "pending" or "approved" hours. You can also view upcoming events that administrative users create.
+<p align="center">
+  <img src="./img/m2-member-dashboard.png" width="85%">
+</p>
+
+<br>
+
+On the event sign-up page users can see upcoming events and details about the event. (currently does not allow users to sign up)
+<p align="center">
+  <img src="./img/m2-event-signup.png" width="85%">
+</p>
+
+<br>
+
+- **Admin User Guide**
+As an admin you can access the member landing page, this page displays buttons that link to the pages that are available to admins.
+<p align="center">
+  <img src="./img/m2-admin-landing.png" width="85%">
+</p>
+
+<br>
+
+On the admin dashboard you can see a table of all members in the database. The table displays the users approved hours, pending hours, and allows for admins to approve or deny pending hours.
+<p align="center">
+  <img src="./img/m2-admin-dashboard.png" width="85%">
+</p>
+
+<br>
+
+On the add event page, you can create events for users to view and check into. (eventually this page will have a printable qr code for admins to use at the event for easy check in.
+<p align="center">
+  <img src="./img/m2-add-event.png" width="85%">
+</p>
 
 ## Mockup Pages
 <hr>
