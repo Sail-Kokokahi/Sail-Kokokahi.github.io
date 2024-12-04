@@ -3,6 +3,8 @@
 ## Table of contents
 - [Deployment](#deployment)
 - [Overview](#overview)
+- [Developer Guide](#developer_guide)
+- [User Guide](#user_guide)
 - [Mockup Pages](#mockup-pages)
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
@@ -28,6 +30,16 @@ Sail Kokokahi is a social/recreation club established in 2022 as a way to establ
 If members do not meet the quota of 6 hours they will be billed at 20 dollars per unfulfilled hour. The problem with enforcing this policy resides in the members volunteer hours being tracked manually. Some members are unsure if they have met the quota for the year, while others are not fulfilling the commitment at all.
 
 To solve this problem, our team will work torwards making a web application to mangage and monitor the volunteer hours contributed by each club member. The web application will enable members to monitor their own volunteer hours, and allow administrators to track and automate the billing process for members with unfulfilled volunteer hours.
+
+## Developer Guide
+<hr>
+
+## User Guide
+<hr>
+<p align="center">
+  <img src="./img/m2-landing-page.png" width="85%">
+</p>
+
 
 ## Mockup Pages
 <hr>
