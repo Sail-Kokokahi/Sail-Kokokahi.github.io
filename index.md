@@ -1,5 +1,5 @@
 # Sail Kokokahi
-
+<hr>
 [![sail-kokokahi](https://github.com/Sail-Kokokahi/sail-kokokahi/actions/workflows/main.yml/badge.svg)](https://github.com/Sail-Kokokahi/sail-kokokahi/actions/workflows/main.yml)
 
 ## Table of contents
@@ -33,6 +33,30 @@ To solve this problem, our team will work torwards making a web application to m
 
 ## Developer Guide
 <hr>
+
+1. Clone repository with Github Desktop.
+2. cd into the `/sail-kokokahi` folder.
+3. Install Next.js if needed (see step 1 [here](https://www.geeksforgeeks.org/next-js-installation/#)).
+4. Run `npm run dev` to start the app locally. The app should start running in a few minutes, and the output should look similar to this:
+
+```
+PS C:\Users\minec\Desktop\sail-kokokahi> npm run dev
+
+> nextjs-application-template-1@0.1.0 dev 
+> next dev
+
+  ▲ Next.js 14.2.10
+  - Local:        http://localhost:3000   
+  - Environments: .env.local, .env        
+
+ ✓ Starting...
+
+=> App running at: http://localhost:3000/
+   Type Control-C twice to stop.
+
+```
+
+5. To run eslint, run `npm run lint`.
 
 ## User Guide
 <hr>
