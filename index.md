@@ -3,8 +3,8 @@
 ## Table of contents
 - [Deployment](#deployment)
 - [Overview](#overview)
-- [Developer Guide](#developer_guide)
-- [User Guide](#user_guide)
+- [Developer Guide](#developer-guide)
+- [User Guide](#user-guide)
 - [Mockup Pages](#mockup-pages)
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
@@ -13,7 +13,7 @@
 [![sail-kokokahi](https://github.com/Sail-Kokokahi/sail-kokokahi/actions/workflows/main.yml/badge.svg?branch=issue-46)](https://github.com/Sail-Kokokahi/sail-kokokahi/actions/workflows/main.yml)
 
 ### [Team Contract](https://docs.google.com/document/d/1g-LGbroK5dOsta1CuUrlV2K-iqaDX6juGQYbdOwcRJo/edit?tab=t.0)
-Team Members: Ethan Christman, John Holt, Nalani Klopfenstein, Jett Perry
+Team Members: Ethan Christman, John Holt, Jett Perry
 
 ## Deployment
 <hr>
@@ -41,14 +41,10 @@ Upon visiting our website you will land on the initial landing page, from here y
   <img src="./img/m2-initial-page.png" width="85%">
 </p>
 
-<br>
-
 After signing in you can choose to either be redirected to the "member" or "admin" landing page, admin users cannot access the member landing page and vice versa.
 <p align="center">
   <img src="./img/m2-redirect-page.png" width="85%">
 </p>
-
-<br>
 
 - **Member User Guide**
 As a member you can access the member landing page, this page displays buttons that link to the pages that are available to members.
@@ -56,21 +52,15 @@ As a member you can access the member landing page, this page displays buttons t
   <img src="./img/m2-member-landing.png" width="85%">
 </p>
 
-<br>
-
 On the member dashboard you can see your own "pending" or "approved" hours. You can also view upcoming events that administrative users create.
 <p align="center">
   <img src="./img/m2-member-dashboard.png" width="85%">
 </p>
 
-<br>
-
 On the event sign-up page users can see upcoming events and details about the event. (currently does not allow users to sign up)
 <p align="center">
   <img src="./img/m2-event-signup.png" width="85%">
 </p>
-
-<br>
 
 - **Admin User Guide**
 As an admin you can access the member landing page, this page displays buttons that link to the pages that are available to admins.
@@ -78,14 +68,10 @@ As an admin you can access the member landing page, this page displays buttons t
   <img src="./img/m2-admin-landing.png" width="85%">
 </p>
 
-<br>
-
 On the admin dashboard you can see a table of all members in the database. The table displays the users approved hours, pending hours, and allows for admins to approve or deny pending hours.
 <p align="center">
   <img src="./img/m2-admin-dashboard.png" width="85%">
 </p>
-
-<br>
 
 On the add event page, you can create events for users to view and check into. (eventually this page will have a printable qr code for admins to use at the event for easy check in.
 <p align="center">
