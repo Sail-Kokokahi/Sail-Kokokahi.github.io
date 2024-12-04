@@ -1,5 +1,7 @@
 # Sail Kokokahi
 
+[![sail-kokokahi](https://github.com/Sail-Kokokahi/sail-kokokahi/actions/workflows/main.yml/badge.svg)](https://github.com/Sail-Kokokahi/sail-kokokahi/actions/workflows/main.yml)
+
 ## Table of contents
 - [Deployment](#deployment)
 - [Overview](#overview)
@@ -9,8 +11,6 @@
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
 - [Milestone 3](#milestone-3)
-
-[![sail-kokokahi](https://github.com/Sail-Kokokahi/sail-kokokahi/actions/workflows/main.yml/badge.svg)](https://github.com/Sail-Kokokahi/sail-kokokahi/actions/workflows/main.yml)
 
 ### [Team Contract](https://docs.google.com/document/d/1g-LGbroK5dOsta1CuUrlV2K-iqaDX6juGQYbdOwcRJo/edit?tab=t.0)
 Team Members: Ethan Christman, John Holt, Jett Perry
