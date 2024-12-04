@@ -56,7 +56,7 @@ PS C:\Users\minec\Desktop\sail-kokokahi> npm run dev
 
 ```
 
-5. To run eslint, run `npm run lint`.
+To run eslint, run `npm run lint`.
 
 ## User Guide
 <hr>
