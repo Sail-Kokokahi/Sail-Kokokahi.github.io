@@ -11,6 +11,7 @@
 - [Milestone 1](#milestone-1)
 - [Milestone 2](#milestone-2)
 - [Milestone 3](#milestone-3)
+- [Community Feedback](#community-feedback)
 
 ### [Team Contract](https://docs.google.com/document/d/1g-LGbroK5dOsta1CuUrlV2K-iqaDX6juGQYbdOwcRJo/edit?tab=t.0)
 Team Members: Ethan Christman, John Holt, Jett Perry
@@ -281,3 +282,62 @@ The settings page is accessible to all members or admins, it allows the user to 
 <hr>
 
 ### [M3 Progress Page](https://github.com/orgs/Sail-Kokokahi/projects/6)
+- **Landing page**
+<br>
+Both the admin and member landing pages were removed and we opted for a simpler approach by just having one landing page.
+<p align="center">
+  <img src="./img/m3-landing-page.png" width="85%">
+</p>
+
+- **Event Sign-up**
+<br>
+The event sign-up page shows members all upcoming events while filtering out old events. It allows users to sign-up to an event, which will show up on the admin event analytics page so admins can easily see how many of their members are attending events.
+<p align="center">
+  <img src="./img/m3-event-signup.png" width="85%">
+</p>
+
+- **Admin Dashboard page**
+<br>
+The admin dashboard now includes a chart that monitors progress strictly for new users.
+<p align="center">
+  <img src="./img/m3-admin-dashboard.png" width="85%">
+</p>
+
+- **Events page**
+<br>
+The events page is an admin only page that looks very similar to the event sign-up page for users, but it includes admin only commands such as "Delete Events" and "Print QR Code."
+<p align="center">
+  <img src="./img/m3-events.png" width="85%">
+</p>
+
+- **Event Analytics page**
+<br>
+The event analytics page shows admin users all the users in the system who have either signed up for an event or checked into an event.
+<p align="center">
+  <img src="./img/m3-analytics.png" width="85%">
+</p>
+
+- **Settings**
+<br>
+Settings has been changed to a more user friendly format.
+<p align="center">
+  <img src="./img/m3-settings.png" width="85%">
+</p>
+
+## Community Feedback
+<hr>
+
+#### Jacob
+Jacob commends the website's simplicity and readability, finding great interest in the event analytics page. He suggests that having a way to notify users of upcoming events via the phone number that can be linked to user accounts would be beneficial.
+
+#### Christin
+Christin finds the website easy to navigate but raises concerns about account creation. She mentions how users can create accounts to skew admin data and analytics pages without penalty.
+
+#### Gabriel
+Gabriel appreciates what the website offers but notes the small navbar buttons. He prefers a larger and easier to see navigation bar to make for easy use of the website.
+
+#### Brock
+Brock praises the website's user-friendly interface but questions the necessity of a phone number upon account creation. Brock believes that having more options for members such as email or phone notifications to remind them of events can make the website significantly more useful.
+
+#### Savannah
+Savannah loves the functionality of the website and all the options that admin users have but questions the format of the admin dashboard. She is confused by the need for both a table and a chart, and thinks that the new user data should be on a separate page to improve readability when 50+ users are added to the system.
