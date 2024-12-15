@@ -61,46 +61,46 @@ To run eslint, run `npm run lint`.
 
 ## User Guide
 <hr>
-Upon visiting our website you will land on the initial landing page, from here you are directed to sign in before accessing the "member" or "admin" pages.
+Upon visiting our website you will land on the initial landing page, from here you are required to sign in before being able to access any of the websites member or admin features.
 <p align="center">
-  <img src="./img/m2-initial-page.png" width="85%">
-</p>
-
-After signing in you can choose to either be redirected to the "member" or "admin" landing page, admin users cannot access the member landing page and vice versa.
-<p align="center">
-  <img src="./img/m2-redirect-page.png" width="85%">
+  <img src="./img/m3-landing-page.png" width="85%">
 </p>
 
 ### Member User Guide
-As a member you can access the member landing page, this page displays buttons that link to the pages that are available to members.
+After signing in as a member, one of the pages you will be able to access is the member dashboard. On the member dashboard, you can see your own "pending" or "approved" hours. You can also view upcoming events that administrative users create.
 <p align="center">
-  <img src="./img/m2-member-landing.png" width="85%">
+  <img src="./img/m3-member-dashboard.png" width="85%">
 </p>
 
-On the member dashboard you can see your own "pending" or "approved" hours. You can also view upcoming events that administrative users create.
+On the event sign-up page users can see upcoming events and details about events that admins can create. You can also sign up for events to let admins know that you are planning to attend.
 <p align="center">
-  <img src="./img/m2-member-dashboard.png" width="85%">
+  <img src="./img/m3-event-signup.png" width="85%">
 </p>
 
-On the event sign-up page users can see upcoming events and details about the event. (currently does not allow users to sign up)
+Members have access to the settings page where they can change their basic profile information if needed.
 <p align="center">
-  <img src="./img/m2-event-signup.png" width="85%">
+  <img src="./img/m3-settings.png" width="85%">
 </p>
 
 ### Admin User Guide
-As an admin you can access the member landing page, this page displays buttons that link to the pages that are available to admins.
+After signing in as an admin, one of the pages you will be able to access is the admin dashboard. On the admin dashboard you can see a table of all members in the database. The table displays the users approved hours, pending hours, and allows for admins to approve or deny pending hours. You will also see a chart that displays data for users with accounts that have been in the system for under a year.
 <p align="center">
-  <img src="./img/m2-admin-landing.png" width="85%">
+  <img src="./img/m3-admin-dashboard.png" width="85%">
 </p>
 
-On the admin dashboard you can see a table of all members in the database. The table displays the users approved hours, pending hours, and allows for admins to approve or deny pending hours.
+On the add event page, you can create events for users to view, sign-up, and check into.
 <p align="center">
-  <img src="./img/m2-admin-dashboard.png" width="85%">
+  <img src="./img/m3-add-event.png" width="85%">
 </p>
 
-On the add event page, you can create events for users to view and check into. (eventually this page will have a printable qr code for admins to use at the event for easy check in.
+When you create an event via the add event page, your event will now be visible on the admin events page. This page provides admins with a QR code that they can print out to allow users to easily check into events. The page also allows admins to delete events once they are no longer needed.
 <p align="center">
-  <img src="./img/m2-add-event.png" width="85%">
+  <img src="./img/m3-events.png" width="85%">
+</p>
+
+The event analytics page provides admin users with data on the events that users have checked into via the event QR code on the events page, and events that users have signed up for.
+<p align="center">
+  <img src="./img/m3-analytics.png" width="85%">
 </p>
 
 ## Mockup Pages
